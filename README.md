@@ -16,15 +16,15 @@ Before you begin, ensure you have met the following requirements:
 ### 1. Clone the repository
 
 ```bash
-1.git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+- 1.git clone https://github.com/your-username/your-repo-name.git
+- cd your-repo-name
 
- 2. npm i or yarn i
+- 2. npm i or yarn i
 
- 3. npm run dev or yarn dev
+- 3. npm run dev or yarn dev
 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
 ## Details
