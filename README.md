@@ -14,14 +14,13 @@ Before you begin, ensure you have met the following requirements:
  Installation
 
  1. Clone the repository
+   git clone https://github.com/your-username/your-repo-name.git
+  
+ 2. cd your-repo-name
 
+ 3. npm i or yarn i
 
- 1.git clone https://github.com/your-username/your-repo-name.git
- cd your-repo-name
-
- 2. npm i or yarn i
-
- 3. npm run dev or yarn dev
+ 4. npm run dev or yarn dev
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
