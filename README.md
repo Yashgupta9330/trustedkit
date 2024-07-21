@@ -1,9 +1,28 @@
 
 
-## Getting Started
-First, run the development server:
-1) npm i or yarn i
-2) npm run dev or yarn  dev
+# Project Name
+
+Brief description of the frontend project.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- You have installed Node.js (recommended version: x.x.x)
+- You have installed npm (Node package manager) or Yarn
+
+## Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+ 2. npm i or yarn i
+
+ 3. npm run dev or yarn dev
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
