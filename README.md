@@ -28,14 +28,20 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Details
-### 1. Clone the repository
-when you visit it will go to login page there is email and password did zod validation for email and password and use react hook form once you enter the credentials apikey will come from backend and it will set to localstorage 
-Now it will navigate to dashboard page a popup will come
-in dashoard page i have implemented dark mode light mode
-used rechartjs for barchart
-added piechart also for top 5 products
-and sales and order also
 
-if i have time i would setup nextauth for login signup i will refer some design in dribble and take a inspiration from the design and implement it 
+### Assumptions and Improvements
+
+- **Login Page**: When you visit the application, it will initially redirect you to the login page. The page includes fields for email and password with Zod validation. React Hook Form is utilized for managing the form state. Upon successful authentication, an API key is retrieved from the backend and stored in `localStorage`.
+
+- **Dashboard Page**: After logging in, you will be navigated to the dashboard page where:
+  - A popup will appear with relevant information.
+  - Dark mode and light mode functionality are implemented.
+  - Recharts is used to display a bar chart for sales data.
+  - A pie chart visualizes the top 5 products.
+  - Sales and order data are also presented.
+
+- **Future Enhancements**:
+  - **NextAuth Integration**: Plans to set up NextAuth for login and signup functionalities.
+  - **Design Improvements**: Intend to refer to design inspirations from Dribbble for visual enhancements and implementation.
 
 
