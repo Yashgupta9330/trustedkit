@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
  Installation
 
  1. Clone the repository
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Yashgupta9330/trustedkit.git)
+   git clone https://github.com/Yashgupta9330/trustedkit.git
   
  2. cd trustedkit
 
