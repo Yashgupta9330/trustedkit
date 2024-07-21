@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 
  1. Clone the repository
 
-```bash
+
  1.git clone https://github.com/your-username/your-repo-name.git
  cd your-repo-name
 
