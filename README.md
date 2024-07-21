@@ -1,35 +1,35 @@
 
 
-# Project Name
+# Trustedkit
 
 Brief description of the frontend project.
 
-## Prerequisites
+ Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 - You have installed Node.js (recommended version: x.x.x)
 - You have installed npm (Node package manager) or Yarn
 
-## Installation
+ Installation
 
-### 1. Clone the repository
+ 1. Clone the repository
 
 ```bash
-- 1.git clone https://github.com/your-username/your-repo-name.git
-- cd your-repo-name
+ 1.git clone https://github.com/your-username/your-repo-name.git
+ cd your-repo-name
 
-- 2. npm i or yarn i
+ 2. npm i or yarn i
 
-- 3. npm run dev or yarn dev
-
-
-- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ 3. npm run dev or yarn dev
 
 
-## Details
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Assumptions and Improvements
+
+ Details
+
+ Assumptions and Improvements
 
 - **Login Page**: When you visit the application, it will initially redirect you to the login page. The page includes fields for email and password with Zod validation. React Hook Form is utilized for managing the form state. Upon successful authentication, an API key is retrieved from the backend and stored in `localStorage`.
 
