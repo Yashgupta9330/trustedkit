@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+1.git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
  2. npm i or yarn i
@@ -26,6 +26,9 @@ cd your-repo-name
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+
+## Details
+### 1. Clone the repository
 when you visit it will go to login page there is email and password did zod validation for email and password and use react hook form once you enter the credentials apikey will come from backend and it will set to localstorage 
 Now it will navigate to dashboard page a popup will come
 in dashoard page i have implemented dark mode light mode
